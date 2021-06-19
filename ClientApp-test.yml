@@ -1,2 +1,3 @@
-name: clientApp test
-description: hello i am in test fro github
+property-file:
+  name: clientApp test
+  description: hello i am in test fro github
