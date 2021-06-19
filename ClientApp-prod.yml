@@ -1,2 +1,2 @@
-property-file:
-  description: hello i am in prod fro github
+name: clientApp prod
+description: hello i am in prod fro github
